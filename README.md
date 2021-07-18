@@ -1,6 +1,6 @@
 | Explorercraft | MonstersPlus |
 |-----------|-----------|
-|  |  |
+| ![Explorercraft](https://imgur.com/yE5JUyS) |  |
 | 📖 A mod that adds new exploration elements and addresses some older ones! | 📖 Adds loads of new variants of existing monsters + some new!  |
 | [▶️Download Mod](https://www.curseforge.com/minecraft/mc-mods/explorercraft-worldexpansion) | [▶️Download Mod] Maybe coming soon?! |
 | [📚 View Code Repository](https://github.com/Zathrox/Explorercraft) | [📚 View Code Repository] Maybe coming soon?! |

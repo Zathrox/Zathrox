@@ -9,5 +9,5 @@
 | [🐞 Report Bugs](https://https://github.com/Zathrox/Explorercraft/issues) | [🐞 Report Bugs] Maybe coming soon?! |
 
 
-| [![Mr Pineapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pineapple&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Zathrox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zathrox&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zathrox&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |:-----------:|:-----------:|
